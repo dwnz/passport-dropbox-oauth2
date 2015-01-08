@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/florianheinemann/passport-dropbox-oauth2.git"
+    "url": "http://github.com/dwnz/passport-dropbox-oauth2.git"
   },
   "bugs": {
-    "url": "http://github.com/florianheinemann/passport-dropbox-oauth2/issues"
+    "url": "http://github.com/dwnz/passport-dropbox-oauth2/issues"
   },
   "author": {
     "name": "Florian Heinemann",
